@@ -10,7 +10,7 @@ Compétences évaluées:
 
 * Explorer des données pour synthétiser des variables.
 * Réaliser une Analyse en composantes Principales (ACP).
-* Réaliser et interpréter un cercle des corélations des variables.
+* Réaliser et interpréter un cercle des corrélations des variables.
 * Projeter des individus sur un plan factoriel et interpréter.
 * Effectuer un clustering simple: Classification Ascendante Hiérarchique(CAH) et K-Means.
 
